@@ -1,0 +1,12 @@
+{
+  "projects": {},
+  "targets": {
+    "authenticatedapps-53853": {
+      "hosting": {
+        "sharePic": [
+          "share-pic-app"
+        ]
+      }
+    }
+  }
+}
